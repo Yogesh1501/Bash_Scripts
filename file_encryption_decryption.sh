@@ -1,5 +1,4 @@
-
-#file encryption/decryption script
+#file_encryption_decryption script
 
 #!/bin/bash
 
