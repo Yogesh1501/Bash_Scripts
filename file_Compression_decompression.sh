@@ -1,4 +1,4 @@
-#17.File Compression/Decompression Script
+#17.File Compression-Decompression Script
 
 
 
