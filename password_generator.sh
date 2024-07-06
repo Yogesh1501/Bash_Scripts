@@ -1,5 +1,4 @@
-
-#password genration script
+#password generator script
 
 
 
